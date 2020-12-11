@@ -1,0 +1,17 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "TopalM <mustafa.topal@plastiay.com.tr>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/TopalM/chatDad",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
